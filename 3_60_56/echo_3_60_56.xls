@@ -1,0 +1,35 @@
+echo_3_60_56.CFG
+viernes, 13 de junio de 2025
+9:34
+
+ *** General *** 
+Gain	21,40	dB
+ Delay	0,00	us
+ Scale	18,75	us/div
+
+ *** Emission *** 
+Voltage (V)	200	V
+Width	5	x6.25ns
+P.R.F.  (KHz)	1,00	kHz
+Pulse delay	0,00	us
+
+ *** Auxilaires *** 
+mode	Pulse echo
+Alternance 	Full rectified
+Filters	Broad Band
+
+ *** Gate 1 *** 
+Position 1	17,85	us
+Width 1	0,07	us
+Threshold 1	40,00	%
+
+ *** Gate 2 *** 
+Position 2	35,25	us
+ Width 2	0,12	us
+Threshold 2	21,00	%
+
+ *** Gate 3 *** 
+Position 3	77,12	us
+ Width 3 	0,50	us
+Threshold 3	5,00	%
+
